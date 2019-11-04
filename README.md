@@ -5,7 +5,7 @@ The point of this is: to cover all fundamental aspects of learning python, ready
 
  The following will be covered:
 
- 1: An introduction to Python
- 2: Data Types within Python
- 3: Decision Making and Iterations
- 4: Understanding Functions
+ 1: An introduction to Python \n
+ 2: Data Types within Python \n
+ 3: Decision Making and Iterations \n
+ 4: Understanding Functions \n
