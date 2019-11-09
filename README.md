@@ -1,25 +1,25 @@
-# Introduction to Python, Github and Atom.
-```py
-print("Hello World!")
-```
+# Python_MSc_Intro
+ This is a repository for all things Beginner Python with examples
 
-  *In the following I will address and explain fundamental aspects of Python and how to go about learning the language. The end goal of which is to implement the language for use in Machine Learning, CNNs, Open AI gyms as well as simple executions to automate processes.*
-
+The point of this is: to cover all fundamental aspects of learning python, ready for use in Machine Learning, Deep Learning, A.I OpenAI Gyms and more.
 
  The following will be covered:
 
-* **00:** Installation and setup of up Pycharm/Anaconda Envs
+1:
+An introduction to Python"
 
-* **01:** Setting up Atom Text Editor on MacOSX
 
-* **02:** Setting up and curation on Github
+2:
+Data Types within Python"
 
-* **03:** Introduction to Python
 
-* **04:** Data Types within Python
+3:
+Decision Making and Iterations
 
-* **05:** Decision Making and Iterations
 
-* **06:** Understanding Functions
+4:
+Understanding Functions
 
-* **07:** Exercises and Demonstrations
+
+5:
+Exercises and Demonstrations
